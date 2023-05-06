@@ -20,7 +20,7 @@
     "express": "^4.16.4",
     "istanbul": "^0.4.5",
     "jscs": "^3.0.7",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "travis-deploy-once": "^4.4.1"
   },
   "scripts": {
